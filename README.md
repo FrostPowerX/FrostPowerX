@@ -4,7 +4,7 @@
 #### -  Fun Fact: I love Games
 
 ## My skill Set
-[![My Skills](https://skills.thijs.gg/icons?i=unity)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=unity,cs,cpp,git)](https://skills.thijs.gg)
 
 ## Git Hub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrostPowerX&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
