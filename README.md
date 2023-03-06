@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-# - 🌱 I’m currently learning JavaScript
-# -  Fun Fact: I love Games
+#### - 🌱 I’m currently learning JavaScript
+#### -  Fun Fact: I love Games
 
-### My skill Set
+## My skill Set
 [![My Skills](https://skills.thijs.gg/icons?i=c#,c++,git)](https://skills.thijs.gg)
 
-### Git Hub Stats
+## Git Hub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrostPowerX&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-### Connect with me
+## Connect with me
 
 <!--
 **FrostPowerX/FrostPowerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
